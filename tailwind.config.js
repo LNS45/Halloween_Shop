@@ -10,7 +10,8 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-        'naranja-halloween': '#FFA500'
+        'naranja-halloween': '#FFA500',
+        'negro-transparente': 'rgba(0, 0, 0, 0.29)',
       },
     },
   },
